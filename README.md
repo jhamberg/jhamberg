@@ -1,4 +1,4 @@
-## Hello world!
+## `Hello world!`
 
 I'm a Computer Scientist, Developer and a MSc student at the University of Helsinki, Finland. My research interests include **Crowdsensing**, **Internet of Things** and **Big Data Architectures**.
 
